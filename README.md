@@ -2,8 +2,7 @@
  </div> 
 
 
-<p align="center"> <img src="![image](https://github.com/user-attachments/assets/aef2374a-390c-484f-9a09-1497efbf0d25)
-" width=300> </p>
+<p align="center"> <img src="https://i.pinimg.com/736x/82/cc/d3/82ccd3b8d7e3222b3ef4d3f5d06d528d.jpg" width=300> </p>
 <p align="center"> 
  
 <p align="center">c+h friendly . mostly orv / litc
